@@ -1,3 +1,5 @@
+This is a fork of [DeepSpeech by Mozilla](https://github.com/mozilla/DeepSpeech/). You can find pretrained model in trained_model folder (on all TED corpus data with n_hidden=2048)
+
 # Project DeepSpeech [![Documentation Status](https://readthedocs.org/projects/deepspeech/badge/?version=latest)](http://deepspeech.readthedocs.io/en/latest/?badge=latest)
 
 Project DeepSpeech is an open source Speech-To-Text engine that uses a model trained by machine learning techniques, based on [Baidu's Deep Speech research paper](https://arxiv.org/abs/1412.5567). Project DeepSpeech uses Google's [TensorFlow](https://www.tensorflow.org/) project to facilitate implementation.
