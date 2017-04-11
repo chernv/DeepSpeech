@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/vlad/Documents/DeepSpeech/model/00000001-tmp/export"
+all_model_checkpoint_paths: "/home/vlad/Documents/DeepSpeech/model/00000001-tmp/export"
